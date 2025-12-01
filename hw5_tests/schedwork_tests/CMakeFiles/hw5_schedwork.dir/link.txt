@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw5_schedwork.a  CMakeFiles/hw5_schedwork.dir/home/codio/workspace/hw5/schedwork.cpp.o
+/usr/bin/ranlib libhw5_schedwork.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw5_wordle.a  CMakeFiles/hw5_wordle.dir/home/codio/workspace/hw5/wordle.cpp.o CMakeFiles/hw5_wordle.dir/home/codio/workspace/hw5/dict-eng.cpp.o
+/usr/bin/ranlib libhw5_wordle.a
